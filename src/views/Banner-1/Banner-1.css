@@ -1,0 +1,11 @@
+.Banner-1{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    background: url('./../../images/Banner.png');
+
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size:contain;
+
+}
