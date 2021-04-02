@@ -6,18 +6,18 @@
     height: 31.45%;
     left: 0px;
     right: 0px;
-    top: 4080px;
+    top: 4050px;
     bottom: 0;
 
     padding-top: 5%;
-    padding-bottom:10%;
+    padding-bottom:7%;
 
     justify-content: space-evenly;
     background: #212D06;
 }
 .tx{
     /* position: absolute; */
-    width: 70%;
+    width: 75%;
     height:5.7%;
 
     margin: auto;
