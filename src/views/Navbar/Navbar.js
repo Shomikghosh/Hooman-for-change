@@ -14,6 +14,7 @@ function Navbar() {
         <a href="#contact" className="contact">CONTACT</a>
         <div className="horizontal__bar"></div>
         <button className="donate__now"><b>DONATE NOW</b></button>
+
     </div>
   );
 }
