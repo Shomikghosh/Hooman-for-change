@@ -6,11 +6,11 @@
     height: 31.45%;
     left: 0px;
     right: 0px;
-    top: 4050px;
+    top: 4080px;
     bottom: 0;
 
     padding-top: 5%;
-    padding-bottom:5%;
+    padding-bottom:10%;
 
     justify-content: space-evenly;
     background: #212D06;
@@ -56,9 +56,9 @@
 }
 @media(max-width:622px){
     .Fourpoints__whole{top:4150px;}
-    .tx{font-size: 8px;line-height: 12px;}
+    .tx{font-size: 6px;line-height: 12px;}
 }
 @media(max-width:350px){
-    .tx{font-size: 6px;line-height: 10px;}
+    .tx{font-size: 5px;line-height: 10px;}
 
 }
