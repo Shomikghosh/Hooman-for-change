@@ -3,7 +3,7 @@
     position: absolute;
     width: 17.15%;
     height: 26px;
-    left: 6.18%;
+    left: 5.78%;
     top: 190.83%;
 
     font-family: 'Montserrat';
@@ -19,10 +19,10 @@
 
 .activities__ruler{
     position: absolute;
-    width: 219px;
+    width: 15.2%;
     height: 5px;
-    left: 89px;
-    top: 1489px;
+    left:6.18%;
+    top:200%;
 
     background: #212D06;
     transform: matrix(1, 0, 0, -1, 0, 0);
@@ -180,4 +180,30 @@
     text-transform: uppercase;
 
     color: #000000;
+}
+
+    @media(max-width:986px){
+    
+    .activities__title{font-size: 26px;}
+}
+
+@media(max-width:822px){
+    .activities__title{font-size: 20px;}
+
+}
+@media(max-width:622px){
+    .activities__title{font-size: 16px;}
+
+
+
+}
+@media(max-width:500px){
+    .activities__title{font-size: 12px;}
+
+
+
+}
+@media(max-width:380px){
+    .activities__title{font-size: 8px;}
+
 }
